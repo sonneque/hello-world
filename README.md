@@ -1,6 +1,6 @@
 # hello-world
-my first repository
+Это мой первый тестовый репозиторий.
 
-this is a test changes!
+Здесь я тренируюсь работе с github.com
 
-hello. my name is vasiliy ikolev, and i am a top coder!
+Привет! Меня зовут Эвенкий. Я начинающий кодер, тренируюсь делать вещи.
